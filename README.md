@@ -1,1 +1,1 @@
-branchCoverage homework for BİL481 lecture.
+branchCoverage homework for BİL481 class.
